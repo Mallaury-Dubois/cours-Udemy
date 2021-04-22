@@ -1,0 +1,41 @@
+body{
+  background-color: lightPink;
+  font-family: monospace;
+}
+h1{
+  background-color: white;
+  text-align: center;
+}
+h2{
+  color: black;
+  margin-left: 10;
+}
+h3 {
+background-color: teal;
+height: 20;
+width:300;
+border-radius: 2px;
+text-align: center;
+margin:10px 80px ;
+}
+.photo1 {
+  width:150px;
+  height: 200px;
+  border : solid, 3px;
+  border-radius: 50px 50px 50px 50px;
+  padding-bottom: 10px;
+}
+button{
+  background : #F7DC6F;
+  border-radius: 50px 50px 50px 50px;
+  border: solid 2px white;
+}
+.commentaire {
+  margin-left:10px;
+}
+.div3{
+  background:linear-gradient(40deg,Gray,lightGray, white);
+}
+img{
+filter: blur(5px);
+}
